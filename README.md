@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mariejs
+- 🌱 I’m currently learning javascript
+- 📫 Feel free to drop me a line marie.koch.work@gmail.com
